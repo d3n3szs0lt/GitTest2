@@ -1,1 +1,10 @@
-Szia!
+cls		  ->	konzol törlése
+mkdir             ->	mappa létrehozása
+cd ..             ->	szülőmappába lépés
+cd mappanév       ->	almappába lépés
+meghajtó betűjel: ->	meghajtóváltás
+
+
+git init          ->	git könyvtár (repository) létrehozása
+git status	  ->	repository információk kilistázása
+git add		  ->	fájl hozzáadása a "színpad"-hoz

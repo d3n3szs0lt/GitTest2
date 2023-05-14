@@ -7,4 +7,13 @@ meghajtó betűjel: ->	meghajtóváltás
 
 git init          ->	git könyvtár (repository) létrehozása
 git status	  ->	repository információk kilistázása
-git add		  ->	fájl hozzáadása a "színpad"-hoz
+git add		  ->	fájl(ok) hozzáadása a "színpad"-hoz
+git commit	  ->	fájl(ok) hozzáadása a repository-hoz
+git log   	  ->	repository műveletek listája
+
+git remote add (-u) origin https://github.com/d3n3szs0lt/GitTest2.git
+git push origin master
+
+
+
+git remote add gittest2 https://github.com/d3n3szs0lt/GitTest2.git
